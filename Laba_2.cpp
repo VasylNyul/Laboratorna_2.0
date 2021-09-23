@@ -18,7 +18,7 @@
      
             cout << "a = "; cin >> a;
      
-            z1 = cos(3./8*Pi-a/4)*cos(3./8*Pi-a/4)-cos(11./8*Pi+a/4)*cos(11./8*Pi+a/4);
+            z1 = cos(3./8*Pi-a/4)*cos(3./8*Pi-a/4)-cos(11./8*Pi+a/4)*cos(11./8*Pi+a/4)+1;
             z2 = sqrt(2)/2*sin(a/2);
      
             cout << endl;
